@@ -4,5 +4,7 @@ Sparked by an Online discussion a few years back centered around the questions o
 Here's some Charts I made to Visualize the data
 
 ![Model](https://github.com/ogkalu2/Box-Office-Sequel-Data/blob/main/Charts/Year-comp.png)
+
 ![Model](https://github.com/ogkalu2/Box-Office-Sequel-Data/blob/main/Charts/Timeframe-comp.png)
+
 ![Model](https://github.com/ogkalu2/Box-Office-Sequel-Data/blob/main/Charts/Covid-comp.png)
